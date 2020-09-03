@@ -16,8 +16,7 @@
 - Do `cd farm-rhythm.team-012-group-a.FE` to access to the project folder
 - Create a new branch by typing the command `git checkout -b feature/dev-name`
 
-**"feature"** *is the name of the feature you'll be working on*
-**"dev-name"** *is you developer name*
+**"feature"** *is the name of the feature you'll be working on* and **"dev-name"** *is you developer name*
 
 
 ### How to save your work
